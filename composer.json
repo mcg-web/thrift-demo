@@ -1,0 +1,9 @@
+{
+    "name": "mcg-web/thrift-demo",
+    "description": "a thrift project demo",
+    "type": "project",
+    "require": {
+        "apache/thrift": "^0.13.0"
+    },
+    "license": "MIT"
+}
